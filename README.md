@@ -1,3 +1,15 @@
+# infos
+Nous avons fait les bonus suivants :
+- gitignore
+- branche 'bonus'
+- ruleset 'protect main'
+
+> Groupe 2
+> GitHub : https://github.com/0xKrem/TP1/
+> branch1 : Élève 1 / CHAN Kyle (XC1976)
+> branch2 : Élève 2 / DE LA GENIERE Clément (0xKrem)
+> branch3 : Élève 3 / RICARD Hugo
+
 # TP FINAL
 
 Forker ce repo : https://github.com/esgi-na-sa/TP1 /0.5
